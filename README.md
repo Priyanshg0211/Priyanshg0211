@@ -1,7 +1,7 @@
 ## Priyansh Gupta - UI/UX Designer & Flutter Developer
 
 ## Introduction
-Hello! I'm Priyansh Gupta, a UI/UX Designer with a passion for Flutter development. I'm excited about the possibilities that Flutter brings to the world of app development and am actively exploring its potential. I'm also proud to be a core team member at GDSC BIT D (Google Developer Student Clubs, Birla Institute of Technology, Mesra).
+Hello! I'm Priyansh Gupta, a UI/UX Designer with a passion for Flutter development. I'm excited about the possibilities that Flutter brings to the world of app development and am actively exploring its potential. I'm also proud to be a core team member at GDSC BITD (Google Developer Student Clubs, Birla Institute of Technology, Durg).
 
 ## Contact Information
 You can reach out to me on various platforms:
