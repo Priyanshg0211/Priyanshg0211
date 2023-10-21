@@ -9,9 +9,10 @@ You can reach out to me on various platforms:
 - LinkedIn: www.linkedin.com/in/priyanshg02
 - GitHub: https://github.com/Priyanshg0211
 - Twitter: https://twitter.com/Priyanshg0211
+- [![An image of @priyanshg0211's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshg0211)](https://holopin.io/@priyanshg0211)
 - Feel free to connect with me, ask questions, or collaborate on exciting projects. I'm always open to new opportunities and discussions.
 
-- https://holopin.me/priyanshg0211
+
 
 ## 🚀 Let's build a better digital future together! 🚀
 I look forward to connecting with you and being a part of the amazing Flutter and design community. Let's innovate and create beautiful, user-friendly experiences.
