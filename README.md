@@ -9,6 +9,7 @@ You can reach out to me on various platforms:
 - LinkedIn: www.linkedin.com/in/priyanshg02
 - GitHub: https://github.com/Priyanshg0211
 - Twitter: https://twitter.com/Priyanshg0211
+- Website: https://portfoliopriyansh.wixsite.com/mysite
 - Feel free to connect with me, ask questions, or collaborate on exciting projects. I'm always open to new opportunities and discussions.
 
 
