@@ -10,7 +10,7 @@ You can reach out to me on various platforms:
 - GitHub: https://github.com/Priyanshg0211
 - Twitter: https://twitter.com/Priyanshg0211
 - Google Dev Profile: https://g.dev/priyansh02gupta
-- Website: guptapriyansh.tech
+- Website: https://guptapriyansh.tech/
 - Feel free to connect with me, ask questions, or collaborate on exciting projects. I'm always open to new opportunities and discussions.
 
 
