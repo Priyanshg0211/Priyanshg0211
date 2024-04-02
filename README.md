@@ -17,11 +17,10 @@
 
 You can reach out to me on various platforms:
 
-* LinkedIn: linkedin.com/in/priyanshg02
-* GitHub: github.com/Priyanshg0211
-* Twitter: twitter.com/Priyanshg0211
-* Google Dev Profile: g.dev/priyansh02gupta
-* Website: guptapriyansh.tech
+* LinkedIn: (https://www.linkedin.com/in/priyanshg02/)
+* GitHub: (https://github.com/Priyanshg0211/)
+* X: (https://twitter.com/Priyanshg0211)
+* Portfolio: (https://guptapriyansh.tech/)
 
 
 Feel free to connect with me, ask questions, or collaborate on exciting projects. I'm always open to new opportunities and discussions. Let's build something awesome together! 🌟
