@@ -1,6 +1,6 @@
 # Priyansh Gupta - Flutter Developer 🪄
 
-👋 Hey there! I'm Priyansh Gupta, a passionate IT student with a knack for weaving magic through code. As a Full Stack Flutter Magician, I conjure up captivating and seamless apps that transcend platforms. With Firebase as my wand, I enchant backend solutions that make user experiences truly enchanting.
+👋 Hey there! I'm Priyansh Gupta, a passionate IT student with a knack for weaving magic through code. As a Flutter Developer, I conjure up captivating and seamless apps that transcend platforms. With Firebase as my wand, I enchant backend solutions that make user experiences truly enchanting.
 
 💻 My journey is an odyssey of perpetual learning and collaboration. I thrive on expanding my repertoire of skills and weaving connections within the vibrant tech tapestry. Let's embark on this magical journey of innovation together!
 
