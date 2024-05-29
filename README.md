@@ -21,4 +21,6 @@ Reach out to me across different realms:
 
 Feel the magic, ask questions, or conjure up exciting projects with me. I'm always open to new enchantments and discussions. Let's weave wonders together! 🌟
 
+![Priyanshg0211's Stats](https://github-readme-stats.vercel.app/api?username=Priyanshg0211&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 Happy Coding!
