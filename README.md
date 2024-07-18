@@ -21,4 +21,4 @@ Reach out to me across different realms:
 
 Feel the magic, ask questions, or conjure up exciting projects with me. I'm always open to new enchantments and discussions. Let's weave wonders together! 🌟
 
-![Priyanshg0211's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshg0211&theme=tokyonight&hide_border=true)
+![Priyanshg0211's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshg0211&theme=dracula&hide_border=true)
