@@ -1,16 +1,29 @@
-# Priyansh Gupta - Flutter Developer 🪄
+# 👋 Hi, I'm Priyansh Gupta
 
-👋 Hey there! I'm Priyansh Gupta, a passionate IT student with a knack for weaving magic through code. As a Flutter Developer, I conjure up captivating and seamless apps that transcend platforms. With Firebase as my wand, I enchant backend solutions that make user experiences truly enchanting.
+🎓 **Pre-final year B.Tech student in Information Technology** at Bhilai Institute of Technology. I’m passionate about the intersection of **design** and **development**, with a specialization in **Flutter**, an open-source UI toolkit for building beautiful and responsive applications across multiple platforms.
 
-💻 My journey is an odyssey of perpetual learning and collaboration. I thrive on expanding my repertoire of skills and weaving connections within the vibrant tech tapestry. Let's embark on this magical journey of innovation together!
+## 💻 **What I Do**
+I’ve developed a strong foundation in **Flutter app development**, focusing on key areas such as:
+- 🧭 **Navigation** and **State Management**
+- 🧪 **Testing** and **Deployment**
+- 🔗 Integrating **Firebase** for backend functionality
 
-# 🛠 Skills
+## 🎨 **UI/UX Design**
+In addition to development, I have a deep interest in **UI/UX design**, using tools like:
+- 🖌️ **Figma**
+- 🖥️ **Adobe XD**
 
-* Flutter Sorcery: Conjuring beautiful and responsive apps across diverse platforms.
-* Firebase Wizardry: Casting spells with Firebase for seamless backend solutions.
-* UX/UI Enchantment: Master of Figma and Adobe XD, crafting delightful user experiences.
+I’ve completed several **Google certifications** in UX design, covering:
+- 🔄 **UX design process**
+- 📝 **Wireframing** and **Prototyping**
 
-# 📞 Contact Information
+These experiences allow me to not only design visually appealing interfaces but also bring them to life through **efficient, user-centered development**.
+
+## 🚀 **Goals**
+I’m constantly expanding my knowledge in both **UI/UX design** and **app development**, staying at the forefront of **digital innovation**. 
+
+## 🤝 **Let’s Connect!**
+I'm always excited to collaborate with like-minded individuals who are passionate about transforming creative ideas into reality. Let's work together and explore new opportunities! 🚀
 
 Reach out to me across different realms:
 
@@ -19,5 +32,4 @@ Reach out to me across different realms:
 * Twitter: [Tweet spells](https://twitter.com/Priyanshg0211)
 * Portfolio: [Witness my magic](https://guptapriyansh.tech/)
 
-Feel the magic, ask questions, or conjure up exciting projects with me. I'm always open to new enchantments and discussions. Let's weave wonders together! 🌟
-
+Feel free to reach out!
